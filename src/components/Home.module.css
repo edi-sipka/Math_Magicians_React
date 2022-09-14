@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
+
+.home h2 {
+  font-size: 45px;
+}
+
+.home p {
+  font-size: 20px;
+  width: 50%;
+  padding: 20px;
+}

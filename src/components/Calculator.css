@@ -72,3 +72,7 @@
 .expand {
   grid-column: 1 / span 2;
 }
+
+h2 {
+  font-size: 44px;
+}
