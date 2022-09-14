@@ -1,0 +1,12 @@
+.quotes {
+  height: 60vh;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+  font-size: 44px;
+}

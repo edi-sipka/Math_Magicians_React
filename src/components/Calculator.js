@@ -19,6 +19,7 @@ const Calculator = () => {
   const { total, next, operation } = state;
   return (
     <div className="main">
+      <h2>Let's do some math!</h2>
       <div className="calculator">
         <div className="screen" onChange={displayResult}>
           {total} {operation} {next}
