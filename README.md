@@ -8,7 +8,6 @@ This project is built with React Js.
 
 It is about a SPA with calculator to practice React.
 
-
 ## Built With
 
 - React Js
@@ -47,7 +46,7 @@ $ npm start to run the local server
 
 ## Click here for live version
 
-- live demo: [coming soon]()
+- live demo: [Click here](https://match-magicians-react.netlify.app/)
 
 ## Authors
 
