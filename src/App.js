@@ -12,8 +12,9 @@ class App extends React.Component {
     return (
       <div className="App">
         <Navigation />
+
         <Routes>
-          <Route path="/home" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route path="/calculator" element={<Calculator />} />
           <Route path="/quote" element={<Quote />} />
         </Routes>

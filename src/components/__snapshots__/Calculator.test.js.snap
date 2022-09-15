@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rendering 3 1`] = `
+<div
+  className="main"
+>
+  <h2>
+    Let's do some math!
+  </h2>
+  <div
+    className="calculator"
+  >
+    <div
+      className="screen"
+      onChange={[Function]}
+    >
+      0
+       
+       
+    </div>
+    <div
+      className="row first-row"
+    >
+      <input
+        onClick={[Function]}
+        type="button"
+        value="AC"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="+/-"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="%"
+      />
+      <input
+        className="color"
+        onClick={[Function]}
+        type="button"
+        value="÷"
+      />
+    </div>
+    <div
+      className="row second-row"
+    >
+      <input
+        onClick={[Function]}
+        type="button"
+        value="7"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="8"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="9"
+      />
+      <input
+        className="color"
+        onClick={[Function]}
+        type="button"
+        value="x"
+      />
+    </div>
+    <div
+      className="row third-row"
+    >
+      <input
+        onClick={[Function]}
+        type="button"
+        value="4"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="5"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="6"
+      />
+      <input
+        className="color"
+        onClick={[Function]}
+        type="button"
+        value="-"
+      />
+    </div>
+    <div
+      className="row fourth-row"
+    >
+      <input
+        onClick={[Function]}
+        type="button"
+        value="1"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="2"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="3"
+      />
+      <input
+        className="color"
+        onClick={[Function]}
+        type="button"
+        value="+"
+      />
+    </div>
+    <div
+      className="row fifth-row"
+    >
+      <input
+        className="expand"
+        onClick={[Function]}
+        type="button"
+        value="0"
+      />
+      <input
+        onClick={[Function]}
+        type="button"
+        value="."
+      />
+      <input
+        className="color"
+        onClick={[Function]}
+        type="button"
+        value="="
+      />
+    </div>
+  </div>
+</div>
+`;
