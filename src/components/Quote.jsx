@@ -4,7 +4,7 @@ import styles from './Quote.module.css';
 
 const Quote = () => {
   return (
-    <div className={styles.quotes}>
+    <div className={styles.quotes} data-testid={'quote-test'}>
       <p>
         Mathematics is not about numbers, equations, computations,or algorithms.
         It is about understanding. - William Paul Thurston
